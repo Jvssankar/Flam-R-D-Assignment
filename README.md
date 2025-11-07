@@ -27,6 +27,7 @@ M: 0.021389
 X: 54.9008
 Optimization Success: True
 Final L1 Distance: 37865.0939
+Average L1 Distance (per point): 25.2434
 
 ### Error Metrics
 MAE (x): 16.4221
