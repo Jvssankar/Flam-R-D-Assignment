@@ -22,20 +22,20 @@ $y = 42 + t\sin(\theta) + e^{M|t|}\sin(0.3t)\cos(\theta)$
 
 ## Final Outcomes
 ### Optimized Parameters
-Theta (degrees): 28.1184
-M: 0.021389
-X: 54.9008
-Optimization Success: True
-Final L1 Distance: 37865.0939
-Average L1 Distance (per point): 25.2434
+Theta (degrees): 28.1184 <br>
+M: 0.021389<br>
+X: 54.9008<br>
+Optimization Success: True<br>
+Total L1 Distance: 37865.0939<br>
+Final L1 Distance (per point): 25.2434<br>
 
 ### Error Metrics
-MAE (x): 16.4221
-MAE (y): 8.8213
-Total MAE: 12.6217
-RMSE (x): 20.0540
-RMSE (y): 10.7559
-Total RMSE: 15.4050
+MAE (x): 16.4221<br>
+MAE (y): 8.8213<br>
+Total MAE: 12.6217<br>
+RMSE (x): 20.0540<br>
+RMSE (y): 10.7559<br>
+Total RMSE: 15.4050<br>
 
 ### Final Equation for Submission format
 $$\left(t*\cos(0.4908)-e^{0.021389\left|t\right|}\cdot\sin(0.3t)\sin(0.4908)+54.9008,\ 
